@@ -1,3 +1,3 @@
 # Breakout
 Breakout/Brick Breaker clone in C++
-![Screenshot:](img/breakout.PNG)
+<img src="/img/breakout.png" alt="Screenshot"/>
