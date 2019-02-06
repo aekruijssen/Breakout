@@ -1,15 +1,25 @@
-﻿  Block.cpp
-  Game.vcxproj -> C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\Debug\Game.exe
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\libfreetype-6.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\libogg-0.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\libpng16-16.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\libvorbis-0.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\libvorbisfile-3.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\SDL2.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\SDL2_image.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\SDL2_mixer.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\SDL2_ttf.dll
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\SDL\lib\win\x86\zlib1.dll
-  10 File(s) copied
-  C:\Users\adina\kruijssen-adina-itp380-20191\Lab03\\..\Libraries\GLEW\lib\win\x86\glew32.dll
-  1 File(s) copied
+﻿  Actor.cpp
+c:\users\adina\breakout\breakout\actor.h(6): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Ball.cpp
+c:\users\adina\breakout\breakout\game.h(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  BallMove.cpp
+c:\users\adina\breakout\breakout\component.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Block.cpp
+c:\users\adina\breakout\breakout\actor.h(6): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  CollisionComponent.cpp
+c:\users\adina\breakout\breakout\component.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Component.cpp
+c:\users\adina\breakout\breakout\component.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Game.cpp
+c:\users\adina\breakout\breakout\game.h(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Main.cpp
+c:\users\adina\breakout\breakout\game.h(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Math.cpp
+  MoveComponent.cpp
+c:\users\adina\breakout\breakout\component.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Paddle.cpp
+c:\users\adina\breakout\breakout\game.h(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Random.cpp
+  SpriteComponent.cpp
+c:\users\adina\breakout\breakout\component.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL_stdinc.h': No such file or directory
+  Generating Code...
